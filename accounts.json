@@ -1,0 +1,11 @@
+{
+    "MyUser": {
+        "password": "mypassword123",
+        "hwid": "",
+        "havesub": "yes",
+        "sub_end": "2025-12-31",
+        "haveban": "no",
+        "bantill": "",
+        "whyban": ""
+    }
+}
