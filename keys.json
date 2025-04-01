@@ -1,6 +1,502 @@
 {
-    "key123": {
+    "cfcee9f2-c7d7-4072-ba48-a27e82cbd29a": {
         "status": "not_activated",
-        "expiration_date": "2025-12-31"
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "6370edb6-1e48-402c-bb9d-874ac5eaf146": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "b3cfc848-0974-4b6a-bc8b-15ec558c0872": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "ba20fd6d-757c-4612-8af7-389d32a6e4de": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "17269c7e-f1da-4b76-a5b3-358b3169155d": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "0d3f8296-eea8-4189-9c39-9fd5935ac781": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "c038d75a-35a6-4391-9cc7-3d9e20a75aef": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "ffd516f2-53ed-440a-8d47-8059eee8e750": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "bd90c213-aa8b-4022-b12a-bb3d39be5b0b": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "85f9b8bf-ebf8-444e-8848-3053e2e2a7b7": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "d48e7c3e-a7f1-4f11-bcbe-8ba10ce43b21": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "0f4d3452-a17f-4ff1-98ff-77e19da7293c": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "71d674cf-313a-4bb9-b0da-20a710577e29": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "90ef4410-f67a-4e45-8f62-768a553ada62": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "595e949e-0e0a-4848-ae6b-3d4d51f8703d": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "64c1dcb8-c695-4235-bb9d-d6c81b872d3a": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "0e97bd29-cdea-4fb7-9e7e-3e5d7520db2b": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "a4c57b1d-8e64-44e3-929e-14d0891deedc": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "ebab9772-8778-47b9-a0fe-b1e1c76ba937": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "03169e0c-20c7-4ac0-882c-696fd712049d": {
+        "status": "not_activated",
+        "expiration_date": "2025-05-01",
+        "hwid": null
+    },
+    "9ff31f67-d5e9-49c4-bec3-bf903e81d73b": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "f704f826-612a-4795-8fc8-cb1697ab1e60": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "d611f4ce-5ab3-47cc-adea-a20d74a9d7d2": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "5de42ce6-2b14-4b08-b1db-aedc7ebd1177": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "403547db-94f1-4d3f-8c40-8f4786358caf": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "d3d15f30-da0b-4541-8719-7dd10fd522b8": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "61f66729-ed09-4020-92a7-d4f89a4f3542": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "22a6dcba-9594-4756-973d-73ac6ee1379e": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "2c2ebcb2-b459-4488-b01f-5ffa884212b1": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "eb701cd0-f927-49ab-b2ec-b146827db919": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "4c9a91c4-7b3e-4acb-955a-913931e2a1ee": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "a5b0d4f2-5048-4c78-841a-74280a757db3": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "70413c31-8de2-4281-89d9-9f6b518977f3": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "a0b681a3-c4de-4efd-8dea-e38cc43410a2": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "b878d674-9cc8-48b0-8ae3-d3ccf9b00503": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "72923f8d-a175-43b8-bb35-487366f4a944": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "5d8884be-5878-4e04-89d7-f7712c0e525c": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "553646f5-52fb-40c5-9706-d88967021366": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "ed909709-cc37-4817-a086-4b8d4b53fa6e": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "60144a94-c321-42b1-9ec1-a0ec5fd3c184": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "724e8a37-590c-4704-9252-6e27f6df4194": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "3630124b-9145-43b1-a477-056e04847e5e": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "3474349f-84c5-46ae-b6bf-19076a5018e4": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "0e8220f4-9e4d-4089-877c-fb074f154626": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "025696e4-f6cf-4e07-979a-78417cf9662e": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "ab6e1444-4f06-4760-ba5c-0a67abdb0e00": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "519d4cee-6324-4b11-9aa9-736e007a630d": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "9c229d4f-644b-4c40-a489-ced163a6ecf8": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "c3808b7b-c62b-4e09-b3e4-5012b240f578": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "c6283ebf-10c0-410e-8146-3198ea6924ae": {
+        "status": "not_activated",
+        "expiration_date": "2025-06-30",
+        "hwid": null
+    },
+    "4b03d733-6d52-4a8b-9b11-9b34b3bfca77": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "0b5e3651-9885-40cc-9b1c-60fe19e97170": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "9c577188-fca3-49a5-808d-033513910c83": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "f4ff5d88-b67f-413c-9db6-bd0b0be857c3": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "b7d79923-a973-4f56-b8e4-377d589d2478": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "303dcc24-8888-4022-b2ba-949dcbaf01a2": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "6261bdfe-e120-47fe-ad1b-fee912a34216": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "69c43503-7537-4292-9e17-c700b1a4100f": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "4ecede1e-0b65-46f4-b8ad-785c37572982": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "86276b0f-67e9-431d-84c6-c67b72fd3f61": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "ede845c2-ead8-4150-87e6-f2830e6fceb8": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "917c4584-470d-4969-85af-ba3bd9bacde5": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "1f7267d3-caf2-45d3-b40f-b9e092897e50": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "ffb5844c-5267-4a82-9672-13849370f9e9": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "14e30b76-f7cf-4106-8eaf-c0757a066f62": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "b0eef9d2-69af-448e-a100-db869d686d48": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "15d34397-b8ac-405b-bac8-cdc025c2821a": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "6a440d77-2ba2-463d-926b-007748ace4af": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "65ba8b1a-4c1e-4dc0-baef-0c0fc4593ebd": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "c17de743-f49c-4fe9-8e7d-b57a2f20f1f0": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "05ecba8a-a456-4a7a-89dd-ecc56bef9f02": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "550f7bfb-2aa5-4b5e-8949-6eb18d83fe28": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "f54bb54a-1fe6-401c-ad75-6e637c3d32b2": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "948e6b59-f8a0-445c-9761-455e111ed1a6": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "c926c0de-37d3-47cd-b02c-41c238fb7219": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "d7726105-3df5-4c5d-a886-78f1c633f79e": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "3f21669f-facb-4e2e-b0d0-76392b4d5ea6": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "b41e6964-a59c-46b1-9e05-0b526cfca3b6": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "5cb1e629-5cee-4e29-a586-7edbcc637499": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "a2396a2f-4883-41d1-8516-4710b6b87f2c": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "233a5516-41dd-49cc-8ed2-90cd108a8243": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "1f3771e2-de69-4f9b-81a6-03d5937f3827": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "abd285ea-321c-4745-b7f1-dc66cc794612": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "471b22c8-4941-4631-8cc1-6aa8018b9d3e": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "4084a148-fb47-460c-a353-f6e49561318d": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "86c492bb-8b4d-471d-bfa2-50ae63bc63e2": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "f28bc937-9d70-4923-9dc1-1bb1e586fad2": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "07045da3-a1c3-4291-9354-e7b2c083155e": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "de75d140-3f4f-43c8-9e4f-e53ac15c3c4e": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "17106a10-b58c-49be-8a1e-19cadd7f0ae8": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "4900d19e-64ef-4919-ae1c-a9b1833f0fe0": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "ec2d5a2f-9732-4a02-a677-fcf8a3e96069": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "9e514557-0d56-44f5-86ff-379ea5242ba3": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "755ae60f-adc1-4bd0-9e08-caf2cf53c39e": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "03e49512-b11c-479f-8e17-d1da88843b28": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "02a217e3-6760-4687-a796-5a50a7e26fe2": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "ea506d3d-8b8c-4469-b1f8-b2794528d3a3": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "fc7eb8e4-cad2-4617-a03b-01c02051300d": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "ebb627bc-a71c-4205-99c8-20501ae87280": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
+    },
+    "f3e59241-8099-4e7e-8a79-b344d06a992a": {
+        "status": "not_activated",
+        "expiration_date": "forever",
+        "hwid": null
     }
 }
