@@ -255,9 +255,9 @@
         "hwid": null
     },
     "0b5e3651-9885-40cc-9b1c-60fe19e97170": {
-        "status": "not_activated",
+        "status": "activated",
         "expiration_date": "forever",
-        "hwid": null
+        "hwid": "1cbc81c9b3ffde4c3006aa29e668550f0bac52ead15a4d09e33d6df99e4ab52e"
     },
     "9c577188-fca3-49a5-808d-033513910c83": {
         "status": "not_activated",
